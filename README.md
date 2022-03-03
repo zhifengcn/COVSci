@@ -10,4 +10,5 @@ If you have questions or suggestions, please contact Jianghao Wang at wangjh@lre
 - R 4.0+
 
 ## Organization of repository
+- figures: the output figures
 - Script: the code to replicate the study
